@@ -1,0 +1,43 @@
+INSTRUCTIONS/STEPS TO INSTALL THE SYSTEM ON THE MACHINE
+=======================================================
+1. Determine the server machine where the database will be installed
+2. Then on machines you have to install the following application
+	2.1 xammplite(application machine)
+	2.2 mysql(database machine)
+	2.3 sqlyog(database machine)
+3. Then load the database on sqlyog
+4. You have also to load the system to the folder called htdoc which is find on the xammplite folder
+5. Then you can now stop the iis if you have it on your machine
+6. Run xammplite application, you will see apach server on xammplite then you have to start it
+7. Then to run the system you have to open chrome/internet explore then type http//localhost//carCompSystem//index.php on url
+
+
+System roles, usernames, and password
+===================================================================
+USERNAME		PASSWORD			ROLES
+--------		--------			-----
+CUST6			12345				CUSTOMER
+CUST7			12345				CUSTOMER
+CUST8			12345				CUSTOMER
+CUST9			12345				CUSTOMER
+CUST10			12345				CUSTOMER
+CUST11			54123				CUSTOMER
+CUST12			123456				CUSTOMER
+CUST14			123456				CUSTOMER
+CUST21			123456				CUSTOMER
+ADMIN1			12345				ADMIN
+ADMIN2			12345				ADMIN
+ADMIN3			12345				ADMIN
+ADMIN4			12345				ADMIN
+admin			MXOLISI				ADMIN
+dealer			123456				ADMIN
+MXOLA			123456				ADMIN
+MTHIYA			MBATHA				ADMIN
+ZULU			MBATHA				ADMIN
+MSUTHU			MBATHA				ADMIN
+judith2			judith2				ADMIN
+MKHIZE			MKHIZE				ADMIN
+zembe			12345				ADMIN
+GOGO			MTHIYA				ADMIN
+DEALER3			12345				ADMIN
+MXOLA			123456				SUPERADMIN

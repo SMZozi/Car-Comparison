@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/IDC30BT/carCompSystem/view/superAdmin/addMake.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/model/searchModel.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/controller/superAdminControl.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/controller/customerControl.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/view/customer/update.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/stylehtml.css</file>
+            <file>file:/D:/IDC30BT/carCompSystem/model/superAdminModel.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/route.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/view/administrator/view.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/view/superAdminPages.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/view/superAdmin/addModel.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/controller/adminControl.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/model/dealerModel.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/controller/registerControl.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/view/customer/viewCars.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/controller/homePageControl.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/view/customer/createAccount.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/view/superAdmin/addSeries.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/model/adminModel.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/view/administrator/addFeature.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/controller/loginControl.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/model/dealerVehicleModel.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/model/users.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/view/superAdmin/viewDealersReport.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/view/publicPages/contact.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/view/publicPages/aboutUs.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/view/login.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/view/administrator/addVehicle.php</file>
+            <file>file:/D:/IDC30BT/carCompSystem/view/administrator/registerAdmin.php</file>
+        </group>
+    </open-files>
+</project-private>
